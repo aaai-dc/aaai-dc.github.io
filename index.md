@@ -5,5 +5,5 @@ The Twenty-Fourth AAAI/SIGAI Doctoral Consortium (DC) will provide a group of Ph
 1. Support a new generation of researchers by offering advice about academic, research, industrial, and nontraditional career paths
 1. Contribute to the overall conference goals through interaction with other researchers and participation in conference events
 
-For additional information (e.g., application procedures) please refer to the [call for applications on the AAAI-19 website](http://aaai.org/Conferences/AAAI-19/aaai19dccall/).
+For additional information (e.g., application procedures) please refer to the [call for applications on the AAAI-19 website](http://aaai.org/Conferences/AAAI-19/aaai19dccall/)
 
