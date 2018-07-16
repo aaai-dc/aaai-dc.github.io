@@ -7,7 +7,5 @@ The Twenty-Fourth AAAI/SIGAI Doctoral Consortium (DC) will provide a group of Ph
 
 For additional information (e.g., application procedures) please refer to the [call for applications on the AAAI-19 website](http://aaai.org/Conferences/AAAI-19/aaai19dccall/).
 
-```
-Testing...
-```
+
 
