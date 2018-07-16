@@ -1,9 +1,15 @@
----
----
+.inner {
+  position: relative;
+  max-width: 960px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
 
 @import "{{ site.theme }}";
 
-.page {
-      width=75%;
-      float: right;
+.inner {
+  position: relative;
+  max-width: 960px;
+  padding: 20px 10px;
+  margin: 0 auto;
 }
