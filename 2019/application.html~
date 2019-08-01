@@ -8,15 +8,15 @@
     <link rel="stylesheet" type="text/css" media="screen" href="style.css?v=8515d3f0ce2fb8b7e415178dec6a4742e4fe5051">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>AAAI/SIGAI-20 Doctoral Consortium</title>
+<title>AAAI/SIGAI-19 Doctoral Consortium</title>
 <meta name="generator" content="Jekyll v3.7.3" />
-<meta property="og:title" content="AAAI/SIGAI-20 Doctoral Consortium" />
+<meta property="og:title" content="AAAI/SIGAI-19 Doctoral Consortium" />
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://aaai-dc.github.io/" />
 <meta property="og:url" content="https://aaai-dc.github.io/" />
-<meta property="og:site_name" content="AAAI/SIGAI-20 Doctoral Consortium" />
+<meta property="og:site_name" content="AAAI/SIGAI-19 Doctoral Consortium" />
 <script type="application/ld+json">
-{"name":"AAAI/SIGAI-20 Doctoral Consortium","@type":"WebSite","url":"https://aaai-dc.github.io/","headline":"AAAI/SIGAI-20 Doctoral Consortium","@context":"http://schema.org"}</script>
+{"name":"AAAI/SIGAI-19 Doctoral Consortium","@type":"WebSite","url":"https://aaai-dc.github.io/","headline":"AAAI/SIGAI-19 Doctoral Consortium","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
   </head>
 
@@ -26,7 +26,7 @@
     <div id="header_wrap" class="outer">
         <header style="padding-left: 20px; padding-right: 20px; padding-bottom: 20px; padding-top: 20px; margin: 0 auto; position: relative; vertical-align:middle">
 
-          <h1 id="project_title">AAAI/SIGAI-20 Doctoral Consortium</h1>
+          <h1 id="project_title">AAAI/SIGAI-19 Doctoral Consortium</h1>
 	</header>
     </div>
 
@@ -47,7 +47,7 @@
       <div id="overview" class="left">
 	<section id="main_content" style="padding: 20px 20px 20px 20px">
 
-	  <p>Applications to the DC are submitted using easychair. Please refer to the <a href="https://aaai.org/Conferences/AAAI-20/aaai20dccall/">DC main conference website</a> for detailed instructions. </p>
+	  <p>Applications to the DC are submitted using easychair. Please refer to the <a href="https://aaai.org/Conferences/AAAI-19/aaai19dccall/">main conference website</a> for detailed instructions. </p>
 
 	  <p>The application packet consists of:</p>
 	  <ul>
@@ -59,9 +59,9 @@
 	  </ul>
 	  <p>Resources:</p>
 	  <ul>
-	    <!-- li>AAAI-20 Author Kit (TBD)-->
-	    <li><a href="https://easychair.org/conferences/?conf=aaai20programs">Submission site (through EasyChair)</a>
-	    <li><a href="https://aaai.org/Conferences/AAAI-20/aaai20dccall/">AAAI-20 DC main website</a>
+	    <!-- li>AAAI-19 Author Kit (TBD)-->
+	    <li><a href="https://easychair.org/conferences/?conf=aaai19">Submission site (through EasyChair)</a>
+	    <li><a href="https://aaai.org/Conferences/AAAI-19/aaai19dccall/">AAAI-18 DC main website</a>
 	  </ul>
 	</section>
       </div>
@@ -73,23 +73,21 @@
 <pre class="highlight">
 <span class="kd">Important dates:</span>
 
-<span class="n">Applications due: September 13, 2019</span>
-<span class="n">Acceptance Notifications: October 11, 2019</span>
-<span class="n">Camera-Ready Due: November 21, 2019</span>
-<span class="n">Doctoral Consortium: February 7 - 8, 2020 (New York, New York)</span>
-<span class="n">AAAI-20: February 7 - 12, 2020 (New York, New York)</span></pre></div></div>
+<span class="n">Applications due: September 14, 2018</span>
+<span class="n">Acceptance Notifications: October 12, 2018</span>
+<span class="n">Camera-Ready Due: November 14, 2018</span>
+<span class="n">Doctoral Consortium: January 27 - 28, 2019 (Honolulu, Hawaii)</span>
+<span class="n">AAAI-19: January 27 - February 1, 2019 (Honolulu, Hawaii)</span></pre></div></div>
 <p> </p>
 	  <div class="highlighter-rouge"><div class="highlight">
 <pre class="highlight">
 <span class="kd">Organizers:</span>
 
-<span class="n"><a href="mailto:laura.hiatt@nrl.navy.mil">Laura Hiatt</a>, US Naval Research Laboratory</span>
-<span class="n"><a href="mailto:shiwali.mohan@parc.com">Shiwali Mohan</a>, PARC</span>
-</pre></div></div>
+<span class="n"><a href="mailto:daniele.magazzeni@kcl.ac.uk">Daniele Magazzeni</a>, King's College London</span>
+<span class="n"><a href="mailto:laura.hiatt@nrl.navy.mil">Laura Hiatt</a>, US Naval Research Laboratory</span></pre></div></div>
 	</section>
       </div>
     </div>
-
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer"> 

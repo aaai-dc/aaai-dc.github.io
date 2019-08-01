@@ -368,12 +368,12 @@ a {
     -o-transition: color 0.5s ease;
     -o-transition: text-shadow 0.5s ease;
     -ms-transition: color 0.5s ease;
-    -ms-transition: text-shadow 0.5s ease;
+    -ms-transition: text-shadow 0.5s ease
 }
 
 
 a:hover, a:focus {
-   font-weight: bold;
+    font-weight: bold
 }
 
 
@@ -516,19 +516,6 @@ form {
     max-width: 640px;
     padding: 20px 10px;
     margin: 0 auto
-}
-
-.left {
-    float: left; 
-    width: 60%; 
-    background-color: #f2f2f2
-}
-
-
-.right {
-    float: left; 
-    width: 40%; 
-    background-color: #f2f2f2
 }
 
 #forkme_banner {
